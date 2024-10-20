@@ -1,0 +1,12 @@
+The Array Analyser class provides methods to analyze numerical data within an array, including calculating sums, 
+finding maximum values, counting unique elements, determining the smallest most frequent value, and organizing data for delivery orders.
+
+This assignment built upon my previous programming knowledge and introduced several new concepts:
+
+--> Static Variables and Constants
+
+--> File Handling 
+
+--> Using Collections (HashSet) and Array Manipulations
+
+--> Incremental Testing and Debugging Techniques
